@@ -8,7 +8,7 @@
 ### Installation
 
 ```sh
-git clone https://github.com/Mikhail-Mouner/forntend-task.git
+git clone https://github.com/KirolosFlemon/Album-task.git
 ```
 
 ```sh
